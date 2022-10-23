@@ -1,3 +1,10 @@
+<h4>설명</h4>
+<ul>
+  <li>VAC패턴의 샘플</li>
+  <li>Context와 recoil의 간단한 state </li>
+</ul>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
