@@ -1,7 +1,7 @@
 <h4>설명</h4>
 <ul>
   <li>VAC패턴의 샘플</li>
-  <li>Context와 recoil의 간단한 state </li>
+  <li>Context와 recoil의 간단한 state관리샘플 </li>
 </ul>
 
 
